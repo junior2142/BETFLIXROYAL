@@ -1,25 +1,14 @@
 {
-  "name": "liff-playground",
-  "version": "0.1.0",
-  "description": "liff-playground",
-  "scripts": {
-    "start": "vite",
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview",
-    "deploy": "gh-pages -d dist"
-  },
+  "name": "61cf75b02d1580cb574cb4de136d77c2",
+  "theme": "syntax",
+  "version": "1.0.444",
+  "description": "เว็บ  พนันฟุตบอล บริการเกมเดิมพัน เกมพนัน พนันออนไลน์ทุกรูปแบบ เอาใจใส่สมาชิก ทุกเพศทุกวัย",
+  "keywords": [
+    "บาคาร่า888","sa gaming 1688 เข้าสู่ระบบ","เว็บ บาคาร่า888"
+  ],
+  "repository": "https://github.com/ufahost168/otaku168",
   "license": "MIT",
-  "devDependencies": {
-    "autoprefixer": "^10.3.1",
-    "gh-pages": "^3.2.3",
-    "postcss": "^8.3.6",
-    "tailwindcss": "^2.2.7",
-    "vite": "^2.4.2",
-    "vite-plugin-solid": "^2.0.0"
-  },
-  "dependencies": {
-    "@line/liff": "^2.12.0",
-    "solid-js": "^1.0.2"
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
